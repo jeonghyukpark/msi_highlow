@@ -1,5 +1,5 @@
 
-# A comparative analysis of high and low-level deep learning approaches on microsatellite instability prediction
+# A comparative analysis of 
 
 Python code for models used in the paper that can reproduce its results.
 Code for training is in preparation <br />
